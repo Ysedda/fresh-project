@@ -16,7 +16,7 @@ export default function Home() {
         <p class="my-6">
           Welcome to `fresh`. Try updating this message in the ./routes/index.tsx
           file, and refresh.
-          Bonjour je suis
+          Bonjour je suis blablablablabalbalbalbalab
         </p>
         <Counter start={3} />
       </div>
